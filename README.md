@@ -30,9 +30,9 @@ High employee attrition and low workforce stability can impact organizational pe
 ---
 
 ## 🔹 Key Insights
-- Attrition rate at **27%** indicates significant retention challenges  
-- Workforce is concentrated in **junior roles (trainees & professionals)**  
-- Employee stability is relatively low, suggesting early exits  
+- Attrition rate at **27%** indicates significant retention challenges. 
+- Workforce is concentrated in **junior roles (trainees & professionals).  
+- Employee stability is relatively low, suggesting early exits.
 
 ---
 
