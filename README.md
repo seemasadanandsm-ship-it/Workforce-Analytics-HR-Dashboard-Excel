@@ -38,7 +38,7 @@ High employee attrition and low workforce stability can impact organizational pe
 
 ## 🔹 Files Included
 - Workforce Analytics & HR Insights Dashboard.xlsx  
-- Dashboard.png  
+- HR_Analytics_Dashboard.png  
 
 ---
 
